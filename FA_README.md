@@ -8,10 +8,7 @@
   Computer Engineer • Backend & AI Developer
 </p>
 
-<!-- GitHub Stats -->
-<!-- <p align="center">
-  <img src="" alt="GitHub Stats" />
-</p> -->
+
 
 <div align="center">
     <!-- Programming & Frameworks -->
@@ -35,6 +32,7 @@
     <img src="https://img.shields.io/badge/Web%20Crawling-%23414141.svg?style=for-the-badge&logo=webflow&logoColor=white"/>
 
 </div>
+<img src="https://ghchart.rshah.org/M-mehdiAhmadi"/>
 
 ---
 
@@ -55,9 +53,8 @@
   </tr>
 </table>
 
----
-## فارسی 
 
+## فارسی 
 
 ### درباره من
 مهندس کامپیوتر با تمرکز بر توسعهٔ بک‌اند، یادگیری ماشین کاربردی و پروژه‌های نرم‌افزاری پژوهش‌محور.  
@@ -72,14 +69,6 @@
 - 🐳 **Docker**  
 - ⚙️ **Django & Django REST Framework**  
 - 🛠️ **Git & Version Control**  
-
----
-
-### اصول توسعه
-- کدنویسی خوانا و قابل نگهداری  
-- اجرای قابل بازتولید و مستندسازی کامل  
-- تمرکز بر پروژه‌های پژوهشی و کاربردی  
-- استفاده از لایسنس مناسب متن‌باز
 
 ---
 

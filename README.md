@@ -8,11 +8,6 @@
   Computer Engineer • Backend & AI Developer
 </p>
 
-<!-- GitHub Stats -->
-<!-- <p align="center">
-  <img src="" alt="GitHub Stats" />
-</p> -->
-
 <div align="center">
     <!-- Programming & Frameworks -->
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -35,6 +30,8 @@
     <img src="https://img.shields.io/badge/Web%20Crawling-%23414141.svg?style=for-the-badge&logo=webflow&logoColor=white"/>
 
 </div>
+
+<img src="https://ghchart.rshah.org/M-mehdiAhmadi"/>
 
 ---
 
@@ -64,21 +61,13 @@ Experienced in Python and Django, designing clean, scalable APIs and experimenti
 
 ---
 
-### Technical Skills
+### Top Skills
 - 🐍 **Python**  
 - 🐘 **SQL / PostgreSQL**  
 - ⚛️ **PyTorch / TensorFlow**  
 - 🐳 **Docker**  
 - ⚙️ **Django & Django REST Framework**  
 - 🛠️ **Git & Version Control**  
-
----
-
-### Development Principles
-- Clean, readable, and maintainable code  
-- Reproducible setups with clear installation steps  
-- Emphasis on documentation and structured experiments  
-- Open-source licensing (MIT / Apache 2.0)
 
 ---
 
