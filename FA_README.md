@@ -38,7 +38,7 @@
 
 ---
 
-<table cellpadding="15" border="2"  >
+<table  cellpadding="15" border="2"  >
   <tr>
     <!-- English - ACTIVE -->
     <td align="center" >
@@ -55,16 +55,17 @@
   </tr>
 </table>
 
-## English
+---
+## فارسی 
 
 
-### About Me
-Computer Engineer with a strong focus on backend development, applied machine learning, and research-oriented software projects.  
-Experienced in Python and Django, designing clean, scalable APIs and experimenting with data-driven and AI-based systems.
+### درباره من
+مهندس کامپیوتر با تمرکز بر توسعهٔ بک‌اند، یادگیری ماشین کاربردی و پروژه‌های نرم‌افزاری پژوهش‌محور.  
+دارای تجربه در توسعه با پایتون و جنگو، طراحی APIهای مقیاس‌پذیر و پیاده‌سازی سیستم‌های داده‌محور و هوشمند.
 
 ---
 
-### Technical Skills
+### مهارت‌های فنی
 - 🐍 **Python**  
 - 🐘 **SQL / PostgreSQL**  
 - ⚛️ **PyTorch / TensorFlow**  
@@ -74,17 +75,16 @@ Experienced in Python and Django, designing clean, scalable APIs and experimenti
 
 ---
 
-### Development Principles
-- Clean, readable, and maintainable code  
-- Reproducible setups with clear installation steps  
-- Emphasis on documentation and structured experiments  
-- Open-source licensing (MIT / Apache 2.0)
+### اصول توسعه
+- کدنویسی خوانا و قابل نگهداری  
+- اجرای قابل بازتولید و مستندسازی کامل  
+- تمرکز بر پروژه‌های پژوهشی و کاربردی  
+- استفاده از لایسنس مناسب متن‌باز
 
 ---
 
-### Contact
-📫 **Email:** [ahmadi.mehd2@gmail.com](mailto:ahmadi.mehd2@gmail.com)  
-🔗 **LinkedIn:** [mehdi-ah2](www.linkedin.com/in/mehdi-ah2)  
-🌐 **stackoverflow:** [mehdi-ahmadi](https://stackoverflow.com/users/16958410/mehdi-ahmadi)
-
+### تماس
+📫 ایمیل: [ahmadi.mehd2@gmail.com](mailto:ahmadi.mehd2@gmail.com)  
+🔗 لینکدین: [mehdi-ah2](www.linkedin.com/in/mehdi-ah2)  
+🌐 استک اورفلو: [mehdi-ahmadi](https://stackoverflow.com/users/16958410/mehdi-ahmadi)  
 <a href="https://stackexchange.com/users/22806424"><img src="https://stackexchange.com/users/flair/22806424.png" width="208" height="58" alt="profile for mehdi_ahmadi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for mehdi_ahmadi on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
