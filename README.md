@@ -1,6 +1,6 @@
 <!-- Hero Banner (Optional: Replace URL with your own) -->
 <p align="center">
-  <img src="./hero_banner2.png" alt="Hero Banner" />
+  <img src="./hero_banner3.png" alt="Hero Banner" />
 </p>
 
 <h1 align="center">Mehdi Ahmadi</h1>
@@ -31,26 +31,7 @@
 
 </div>
 
-<img src="https://ghchart.rshah.org/M-mehdiAhmadi"/>
-
 ---
-
-<table cellpadding="15" border="2"  >
-  <tr>
-    <!-- English - ACTIVE -->
-    <td align="center" >
-      <font face="Courier" >
-            <a href="README.md">English</a>
-      </font>
-    </td>  
-    <!-- Persian - NORMAL -->
-    <td align="center" >
-      <font face="Courier" >
-        <a href="FA_README.md">فارسی</a>
-      </font>
-    </td>
-  </tr>
-</table>
 
 ## English
 
